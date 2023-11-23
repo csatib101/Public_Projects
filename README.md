@@ -29,7 +29,9 @@ Project 1: [Repair Maintenance (RM) Dashboard for a Manufacturing Company]
 
 Description: Set up & implement cost controlling for Repair and Maintenance (RM) activities of a Manufacturing company, by using only Dynamic Array Functions of Excel. Processed over 3,000 line items from GL and maintenance records of 3 consecutive, years, coming from 30 cost centers combined in 4 Units. Purchase Requests (PR) initiated by 6 different responsible persons, issued to 20 Suppliers, records booked on 7 different GL Accounts over the years. Data & real names changed for data protection and privacy reasons but structure and business case is coming from real life.
 
-Tools Used: Excel, Dynamic Array Functions
+Tools Used: Excel, 
+Dynamic Dashboard built on some basic Pivot tables, 
+Dynamic Array Functions to showcase that there is life beyound PIVOT (similar functionality but much more elegant)
 
 Results: Full transparency of RM costs and its drivers for enhanced monitoring and decision making. In depth understanding of costs drivers leads to enhanced cost control and business results.
 
