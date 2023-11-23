@@ -33,7 +33,7 @@ Tools Used: Excel,
 
 1) Dynamic Dashboard built on some basic Pivot tables, 
 
-2) Dynamic Array Functions to showcase that there is life beyound PIVOT (similar functionality but much more elegant)
+2) Dynamic Array Functions to showcase that there is life beyound PIVOT (similar functionality as Pivot-based dashboards but much more elegant solution)
 
 Results: Full transparency of RM costs and its drivers for enhanced monitoring and decision making. In depth understanding of costs drivers leads to enhanced cost control and business results.
 
